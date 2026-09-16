@@ -1,6 +1,4 @@
 // Auto-generated. Do not edit.
-declare namespace LCD1IN8 {
-}
 
 
     declare const enum LCD_COLOR {
@@ -39,5 +37,7 @@ declare namespace LCD1IN8 {
     DRAW_EMPTY = 0,
     DRAW_FULL = 1,
     }
+declare namespace LCD1IN8 {
+}
 
 // Auto-generated. Do not edit. Really.
